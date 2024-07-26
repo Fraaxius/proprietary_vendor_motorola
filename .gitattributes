@@ -1,0 +1,2 @@
+MotCamera2.apk filter=lfs diff=lfs merge=lfs -text
+astro/proprietary/product/priv-app/MotCamera2/MotCamera2.apk filter=lfs diff=lfs merge=lfs -text
